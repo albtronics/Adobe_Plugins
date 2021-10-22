@@ -1,0 +1,12 @@
+Adobe After Effects v17.1.1 Windows 64 render log for project “AE Project”
+
+Rendering started on 31-10-2020 at 09:57:57
+
+  31-10-2020 09:57:57: Starting composition “EdwardDZN_STARTINGTEMPLATE”.
+
+  Output To: D:\EdwardDZN_STARTINGTEMPLATE.mov      Render stopped by user.  After Effects warning: Undo group mismatch, will attempt to fix.  31-10-2020 10:00:33: Finished composition “EdwardDZN_STARTINGTEMPLATE”.
+
+
+  Total Time Elapsed: 2 Min, 36 Sec
+Log closed on 31-10-2020 at 10:00:33
+

@@ -1,0 +1,12 @@
+Adobe After Effects v17.1.1 Windows 64 render log for project “AE Project”
+
+Rendering started on 18-05-2021 at 11:59:52
+
+  18-05-2021 11:59:52: Starting composition “Render Comp”.
+
+  Output To: D:\intro_alb.avi    18-05-2021 12:06:32: Finished composition “Render Comp”.
+
+
+  Total Time Elapsed: 6 Min, 40 Sec
+Log closed on 18-05-2021 at 12:06:32
+

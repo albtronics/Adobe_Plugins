@@ -1,0 +1,12 @@
+Adobe After Effects v17.1.1 Windows 64 render log for project “AE Project”
+
+Rendering started on 21-05-2021 at 22:40:29
+
+  21-05-2021 22:40:29: Starting composition “Intro 1”.
+
+  Output To: D:\Intro 1.mov    21-05-2021 22:41:28: Finished composition “Intro 1”.
+
+
+  Total Time Elapsed: 59 Seconds
+Log closed on 21-05-2021 at 22:41:28
+
